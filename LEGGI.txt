@@ -1,0 +1,12 @@
+------------------------------------------------------------------------------------------------------------------
+WebMaster : RonaldoCMS
+Data inizio : 17/07/2019
+base : ColorLib
+------------------------------------------------------------------------------------------------------------------
+
+tools : 
+nav.php ==> Logo e Barra di navigazione.
+footer.php ==> Diritti di autore.
+hero ==> hero index
+instagram ==> sito instagram
+blog ==> blog sito (Da fixxare)
