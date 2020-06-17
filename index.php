@@ -22,18 +22,12 @@
 <body>
     
     <!-- #### BARRA DI NAVIGAZIONE #### -->
-    <?php 
-    include 'tools/nav.php';
-    ?>
+    <?php include 'tools/nav.php'; ?>
 
    <!-- ##### HERO ##### -->
-   <?php 
-    include 'tools/hero.php';
-    ?>
+   <?php include 'tools/hero.php'; ?>
 
-    <?php 
-    include 'tools/footer.php';
-    ?>
+    <?php include 'tools/footer.php'; ?>
 
 
     <!-- ##### All Javascript Script ##### -->
